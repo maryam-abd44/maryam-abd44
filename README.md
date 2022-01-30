@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey! 👋
+
+Im Maryam
+
+## About Me
+
+* 🔺 Freshman at RVCC
+* 🏀 I play basketball
+* 🌿 I love the nature 
 
 <!--
 **maryam-abd44/maryam-abd44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
